@@ -1,6 +1,6 @@
 # iSpy 🕵🏻
 
-A crptographically encrypted p2p messaging app built for the cyber cypher tech hackathon conducted by Taqneeq in Jan, 2022.
+A cryptographically encrypted p2p messaging app built for the cyber cypher tech hackathon conducted by Taqneeq in Jan, 2022.
 
 <p>The online world is so easy to use that we often forget how fragile and dangerous it is. There are many problems which spies may face while communicating digitally. Some of the problems are: Lack of privacy, Data leakage and Increased complexity which can be intimidating at times.</p>
 
